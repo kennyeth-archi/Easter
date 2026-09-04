@@ -1,3 +1,7 @@
+// Code written by Kenneth Running
+// This is a project for AP JAVA at Walter Johnson High School
+// The goal of this code is to accurately determine and output the date of Easter when the program is given a year
+
 import java.util.Scanner;
 
 public class EasterProject {
